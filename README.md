@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
+<h1 align="center">Hi 👋, I'm Marko</h1>
 <p align="center" color=#ff6e96>I am a passionate Croatian programmer always interested in new tech and meeting new and exciting people!</p>
 
 <div align="center">
