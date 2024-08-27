@@ -15,7 +15,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="mailto:justcallmemark625@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-justcallmemark625@gmail.com-blue?style=flat-square&logo=gmail" align="center"></a>
+  <a href="mailto:marko.kubica@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-marko.kubica@outlook.com-blue?style=flat-square&logo=gmail" align="center"></a>
   
 </div>
 
